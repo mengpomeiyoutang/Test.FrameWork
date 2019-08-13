@@ -16,15 +16,7 @@ namespace Test.FrameWork
     {
         static void Main(string[] args)
         {
-            //Factorial(1000);
-            //Console.WriteLine(sum);
-            //Console.ReadLine();
-            //Test test = new Test();
-            //test.a = "1111";
-            //new Program().Change(out test);
-            //Console.WriteLine(test.a);
-            //Console.ReadLine();
-
+            Console.WriteLine("123456");
 
         }
 
