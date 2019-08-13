@@ -55,11 +55,5 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Wj.FrameWork.DataAccess\Wj.FrameWork.DataAccess\Wj.FrameWork.DataAccess.csproj">
-      <Project>{ed66f666-6217-4a7b-bd86-fa6bb3351cb0}</Project>
-      <Name>Wj.FrameWork.DataAccess</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
