@@ -16,7 +16,7 @@ namespace Test.FrameWork
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("7777777");
+            Console.WriteLine("456789");
 
         }
 
